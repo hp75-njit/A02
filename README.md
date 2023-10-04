@@ -12,7 +12,7 @@ Download Link: https://www.jetbrains.com/webstorm/download/
 -	Alternatively, select File | New | Project from Version Control or Git | Clone… from the main menu.
 -	Instead of Git in the main menu, there may be other Version Control Systems that is associated with your project.
 2. In the dialog that opens, select your version control system from the list and specify the repository to check out the application sources from. 
-<br>
+
 **To create an empty WebStorm project**:
 1. Click Create New Project on the Welcome screen or select File | New | Project from the main menu. The New Project dialog opens.
 2. In the left-hand pane, choose Empty Project. In the right-hand pane, specify the application folder and click Create. 
@@ -31,17 +31,17 @@ WebStorm automatically completes keywords, symbols from standard language API's 
 
 # PART 2: Glossary
 
-**Branch**: A parallel version of the repository, allowing for separate development paths.
-**Clone**: Creating a copy of a repository from a remote source to your local machine.
-**Commit**: Saving changes to a repository.
-**Fetch**: Downloading objects and refs from another repository.
-**GIT**: A distributed version control system used to track changes in source code.
-**GitHub**: A web-based platform used for version control and collaboration using Git.
-**Merge**: Combining changes from one branch into another.
-**Merge Conflict**: Occurs when Git is unable to automatically merge two branches.
-**Push**: Uploading local changes to a remote repository.
-**Pull**: Fetching changes from a remote repository and merging them with the local repository.
-**Remote**: A version of the project hosted on a server, often a central repository.
-**Repository**: A storage space where your project's files and history are kept.
+- **Branch**: A parallel version of the repository, allowing for separate development paths.
+- **Clone**: Creating a copy of a repository from a remote source to your local machine.
+- **Commit**: Saving changes to a repository.
+- **Fetch**: Downloading objects and refs from another repository.
+- **GIT**: A distributed version control system used to track changes in source code.
+- **GitHub**: A web-based platform used for version control and collaboration using Git.
+- **Merge**: Combining changes from one branch into another.
+- **Merge Conflict**: Occurs when Git is unable to automatically merge two branches.
+- **Push**: Uploading local changes to a remote repository.
+- **Pull**: Fetching changes from a remote repository and merging them with the local repository.
+- **Remote**: A version of the project hosted on a server, often a central repository.
+- **Repository**: A storage space where your project's files and history are kept.
 
 Now you have a pretty good understanding of the basic Git and GitHub concepts along with WebStorm. Remember to refer to this glossary if you encounter any unfamiliar terms during your Git journey.
