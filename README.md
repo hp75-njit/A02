@@ -4,12 +4,12 @@ Download Link: https://www.jetbrains.com/webstorm/download/
 
 **Opening a Project**
 
-**To open a project**:<br>
-	-	On the Welcome Screen, click Open and then select the folder with your application.
+**To open a project**:
+-	On the Welcome Screen, click Open and then select the folder with your application.
 **To check out a project from a version control system**:
 1.    Click Get from VCS on the Welcome screen.
-	-	Alternatively, select File | New | Project from Version Control or Git | Clone… from the main menu.
-	-	Instead of Git in the main menu, there may be other Version Control Systems that is associated with your project.
+-	Alternatively, select File | New | Project from Version Control or Git | Clone… from the main menu.
+-	Instead of Git in the main menu, there may be other Version Control Systems that is associated with your project.
 2.    In the dialog that opens, select your version control system from the list and specify the repository to check out the application sources from. 
  
 **To create an empty WebStorm project**:
